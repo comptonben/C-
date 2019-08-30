@@ -1,0 +1,10 @@
+C:\Users\benc1\git\C-sharp\equals\bin\Debug\netcoreapp2.1\equals.deps.json
+C:\Users\benc1\git\C-sharp\equals\bin\Debug\netcoreapp2.1\equals.runtimeconfig.json
+C:\Users\benc1\git\C-sharp\equals\bin\Debug\netcoreapp2.1\equals.runtimeconfig.dev.json
+C:\Users\benc1\git\C-sharp\equals\bin\Debug\netcoreapp2.1\equals.dll
+C:\Users\benc1\git\C-sharp\equals\bin\Debug\netcoreapp2.1\equals.pdb
+C:\Users\benc1\git\C-sharp\equals\obj\Debug\netcoreapp2.1\equals.csproj.CoreCompileInputs.cache
+C:\Users\benc1\git\C-sharp\equals\obj\Debug\netcoreapp2.1\equals.AssemblyInfoInputs.cache
+C:\Users\benc1\git\C-sharp\equals\obj\Debug\netcoreapp2.1\equals.AssemblyInfo.cs
+C:\Users\benc1\git\C-sharp\equals\obj\Debug\netcoreapp2.1\equals.dll
+C:\Users\benc1\git\C-sharp\equals\obj\Debug\netcoreapp2.1\equals.pdb

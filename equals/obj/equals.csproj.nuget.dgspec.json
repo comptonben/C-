@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\benc1\\git\\C-sharp\\defaultConstructorAccessModifier\\defaultConstructorAccessModifier.csproj": {}
+    "C:\\Users\\benc1\\git\\C-sharp\\equals\\equals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\benc1\\git\\C-sharp\\defaultConstructorAccessModifier\\defaultConstructorAccessModifier.csproj": {
+    "C:\\Users\\benc1\\git\\C-sharp\\equals\\equals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\benc1\\git\\C-sharp\\defaultConstructorAccessModifier\\defaultConstructorAccessModifier.csproj",
-        "projectName": "defaultConstructorAccessModifier",
-        "projectPath": "C:\\Users\\benc1\\git\\C-sharp\\defaultConstructorAccessModifier\\defaultConstructorAccessModifier.csproj",
+        "projectUniqueName": "C:\\Users\\benc1\\git\\C-sharp\\equals\\equals.csproj",
+        "projectName": "equals",
+        "projectPath": "C:\\Users\\benc1\\git\\C-sharp\\equals\\equals.csproj",
         "packagesPath": "C:\\Users\\benc1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\benc1\\git\\C-sharp\\defaultConstructorAccessModifier\\obj\\",
+        "outputPath": "C:\\Users\\benc1\\git\\C-sharp\\equals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
