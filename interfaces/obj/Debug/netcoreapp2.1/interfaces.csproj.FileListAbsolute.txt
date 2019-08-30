@@ -1,0 +1,10 @@
+C:\Users\benc1\source\repos\c#\interfaces\bin\Debug\netcoreapp2.1\interfaces.deps.json
+C:\Users\benc1\source\repos\c#\interfaces\bin\Debug\netcoreapp2.1\interfaces.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\interfaces\bin\Debug\netcoreapp2.1\interfaces.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\interfaces\bin\Debug\netcoreapp2.1\interfaces.dll
+C:\Users\benc1\source\repos\c#\interfaces\bin\Debug\netcoreapp2.1\interfaces.pdb
+C:\Users\benc1\source\repos\c#\interfaces\obj\Debug\netcoreapp2.1\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\interfaces\obj\Debug\netcoreapp2.1\interfaces.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\interfaces\obj\Debug\netcoreapp2.1\interfaces.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\interfaces\obj\Debug\netcoreapp2.1\interfaces.dll
+C:\Users\benc1\source\repos\c#\interfaces\obj\Debug\netcoreapp2.1\interfaces.pdb

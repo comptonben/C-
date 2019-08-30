@@ -1,0 +1,10 @@
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\bin\Debug\netcoreapp2.1\abstractClassConstructors.deps.json
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\bin\Debug\netcoreapp2.1\abstractClassConstructors.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\bin\Debug\netcoreapp2.1\abstractClassConstructors.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\bin\Debug\netcoreapp2.1\abstractClassConstructors.dll
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\bin\Debug\netcoreapp2.1\abstractClassConstructors.pdb
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\obj\Debug\netcoreapp2.1\abstractClassConstructors.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\obj\Debug\netcoreapp2.1\abstractClassConstructors.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\obj\Debug\netcoreapp2.1\abstractClassConstructors.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\obj\Debug\netcoreapp2.1\abstractClassConstructors.dll
+C:\Users\benc1\source\repos\c#\abstractClassConstructors\obj\Debug\netcoreapp2.1\abstractClassConstructors.pdb

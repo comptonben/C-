@@ -1,0 +1,10 @@
+C:\Users\benc1\source\repos\c#\reverseCharacter\bin\Debug\netcoreapp2.1\reverseCharacter.deps.json
+C:\Users\benc1\source\repos\c#\reverseCharacter\bin\Debug\netcoreapp2.1\reverseCharacter.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\reverseCharacter\bin\Debug\netcoreapp2.1\reverseCharacter.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\reverseCharacter\bin\Debug\netcoreapp2.1\reverseCharacter.dll
+C:\Users\benc1\source\repos\c#\reverseCharacter\bin\Debug\netcoreapp2.1\reverseCharacter.pdb
+C:\Users\benc1\source\repos\c#\reverseCharacter\obj\Debug\netcoreapp2.1\reverseCharacter.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\reverseCharacter\obj\Debug\netcoreapp2.1\reverseCharacter.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\reverseCharacter\obj\Debug\netcoreapp2.1\reverseCharacter.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\reverseCharacter\obj\Debug\netcoreapp2.1\reverseCharacter.dll
+C:\Users\benc1\source\repos\c#\reverseCharacter\obj\Debug\netcoreapp2.1\reverseCharacter.pdb

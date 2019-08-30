@@ -1,0 +1,11 @@
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\bin\Debug\netcoreapp2.1\isVersusAsKeywords.deps.json
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\bin\Debug\netcoreapp2.1\isVersusAsKeywords.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\bin\Debug\netcoreapp2.1\isVersusAsKeywords.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\bin\Debug\netcoreapp2.1\isVersusAsKeywords.dll
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\bin\Debug\netcoreapp2.1\isVersusAsKeywords.pdb
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\obj\Debug\netcoreapp2.1\isVersusAsKeywords.csprojAssemblyReference.cache
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\obj\Debug\netcoreapp2.1\isVersusAsKeywords.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\obj\Debug\netcoreapp2.1\isVersusAsKeywords.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\obj\Debug\netcoreapp2.1\isVersusAsKeywords.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\obj\Debug\netcoreapp2.1\isVersusAsKeywords.dll
+C:\Users\benc1\source\repos\c#\isVersusAsKeywords\obj\Debug\netcoreapp2.1\isVersusAsKeywords.pdb

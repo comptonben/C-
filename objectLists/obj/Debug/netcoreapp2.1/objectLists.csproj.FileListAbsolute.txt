@@ -1,0 +1,10 @@
+C:\Users\benc1\source\repos\c#\objectLists\bin\Debug\netcoreapp2.1\objectLists.deps.json
+C:\Users\benc1\source\repos\c#\objectLists\bin\Debug\netcoreapp2.1\objectLists.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\objectLists\bin\Debug\netcoreapp2.1\objectLists.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\objectLists\bin\Debug\netcoreapp2.1\objectLists.dll
+C:\Users\benc1\source\repos\c#\objectLists\bin\Debug\netcoreapp2.1\objectLists.pdb
+C:\Users\benc1\source\repos\c#\objectLists\obj\Debug\netcoreapp2.1\objectLists.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\objectLists\obj\Debug\netcoreapp2.1\objectLists.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\objectLists\obj\Debug\netcoreapp2.1\objectLists.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\objectLists\obj\Debug\netcoreapp2.1\objectLists.dll
+C:\Users\benc1\source\repos\c#\objectLists\obj\Debug\netcoreapp2.1\objectLists.pdb

@@ -1,0 +1,11 @@
+C:\Users\benc1\source\repos\c#\finallyBlockException\bin\Debug\netcoreapp2.1\finallyBlockException.deps.json
+C:\Users\benc1\source\repos\c#\finallyBlockException\bin\Debug\netcoreapp2.1\finallyBlockException.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\finallyBlockException\bin\Debug\netcoreapp2.1\finallyBlockException.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\finallyBlockException\bin\Debug\netcoreapp2.1\finallyBlockException.dll
+C:\Users\benc1\source\repos\c#\finallyBlockException\bin\Debug\netcoreapp2.1\finallyBlockException.pdb
+C:\Users\benc1\source\repos\c#\finallyBlockException\obj\Debug\netcoreapp2.1\finallyBlockException.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\finallyBlockException\obj\Debug\netcoreapp2.1\finallyBlockException.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\finallyBlockException\obj\Debug\netcoreapp2.1\finallyBlockException.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\finallyBlockException\obj\Debug\netcoreapp2.1\finallyBlockException.dll
+C:\Users\benc1\source\repos\c#\finallyBlockException\obj\Debug\netcoreapp2.1\finallyBlockException.pdb
+C:\Users\benc1\source\repos\c#\finallyBlockException\obj\Debug\netcoreapp2.1\finallyBlockException.csprojAssemblyReference.cache

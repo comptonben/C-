@@ -1,0 +1,10 @@
+C:\Users\benc1\source\repos\c#\diffTypeArrays\bin\Debug\netcoreapp2.1\diffTypeArrays.deps.json
+C:\Users\benc1\source\repos\c#\diffTypeArrays\bin\Debug\netcoreapp2.1\diffTypeArrays.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\diffTypeArrays\bin\Debug\netcoreapp2.1\diffTypeArrays.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\diffTypeArrays\bin\Debug\netcoreapp2.1\diffTypeArrays.dll
+C:\Users\benc1\source\repos\c#\diffTypeArrays\bin\Debug\netcoreapp2.1\diffTypeArrays.pdb
+C:\Users\benc1\source\repos\c#\diffTypeArrays\obj\Debug\netcoreapp2.1\diffTypeArrays.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\diffTypeArrays\obj\Debug\netcoreapp2.1\diffTypeArrays.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\diffTypeArrays\obj\Debug\netcoreapp2.1\diffTypeArrays.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\diffTypeArrays\obj\Debug\netcoreapp2.1\diffTypeArrays.dll
+C:\Users\benc1\source\repos\c#\diffTypeArrays\obj\Debug\netcoreapp2.1\diffTypeArrays.pdb

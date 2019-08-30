@@ -1,0 +1,10 @@
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\bin\Debug\netcoreapp2.1\abstractClassVirtualMethods.deps.json
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\bin\Debug\netcoreapp2.1\abstractClassVirtualMethods.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\bin\Debug\netcoreapp2.1\abstractClassVirtualMethods.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\bin\Debug\netcoreapp2.1\abstractClassVirtualMethods.dll
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\bin\Debug\netcoreapp2.1\abstractClassVirtualMethods.pdb
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\obj\Debug\netcoreapp2.1\abstractClassVirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\obj\Debug\netcoreapp2.1\abstractClassVirtualMethods.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\obj\Debug\netcoreapp2.1\abstractClassVirtualMethods.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\obj\Debug\netcoreapp2.1\abstractClassVirtualMethods.dll
+C:\Users\benc1\source\repos\c#\abstractClassVirtualMethods\obj\Debug\netcoreapp2.1\abstractClassVirtualMethods.pdb

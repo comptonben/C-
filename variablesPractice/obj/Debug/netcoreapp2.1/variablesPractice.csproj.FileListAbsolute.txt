@@ -1,0 +1,11 @@
+C:\Users\benc1\source\repos\c#\variablesPractice\bin\Debug\netcoreapp2.1\variablesPractice.deps.json
+C:\Users\benc1\source\repos\c#\variablesPractice\bin\Debug\netcoreapp2.1\variablesPractice.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\variablesPractice\bin\Debug\netcoreapp2.1\variablesPractice.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\variablesPractice\bin\Debug\netcoreapp2.1\variablesPractice.dll
+C:\Users\benc1\source\repos\c#\variablesPractice\bin\Debug\netcoreapp2.1\variablesPractice.pdb
+C:\Users\benc1\source\repos\c#\variablesPractice\obj\Debug\netcoreapp2.1\variablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\variablesPractice\obj\Debug\netcoreapp2.1\variablesPractice.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\variablesPractice\obj\Debug\netcoreapp2.1\variablesPractice.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\variablesPractice\obj\Debug\netcoreapp2.1\variablesPractice.dll
+C:\Users\benc1\source\repos\c#\variablesPractice\obj\Debug\netcoreapp2.1\variablesPractice.pdb
+C:\Users\benc1\source\repos\c#\variablesPractice\obj\Debug\netcoreapp2.1\variablesPractice.csprojAssemblyReference.cache

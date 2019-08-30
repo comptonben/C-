@@ -1,0 +1,11 @@
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\bin\Debug\netcoreapp2.1\eventsAndDelegates.deps.json
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\bin\Debug\netcoreapp2.1\eventsAndDelegates.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\bin\Debug\netcoreapp2.1\eventsAndDelegates.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\bin\Debug\netcoreapp2.1\eventsAndDelegates.dll
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\bin\Debug\netcoreapp2.1\eventsAndDelegates.pdb
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\obj\Debug\netcoreapp2.1\eventsAndDelegates.csprojAssemblyReference.cache
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\obj\Debug\netcoreapp2.1\eventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\obj\Debug\netcoreapp2.1\eventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\obj\Debug\netcoreapp2.1\eventsAndDelegates.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\obj\Debug\netcoreapp2.1\eventsAndDelegates.dll
+C:\Users\benc1\source\repos\c#\eventsAndDelegates\obj\Debug\netcoreapp2.1\eventsAndDelegates.pdb

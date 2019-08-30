@@ -1,0 +1,10 @@
+C:\Users\benc1\source\repos\c#\intAndInt32\bin\Debug\netcoreapp2.1\intAndInt32.deps.json
+C:\Users\benc1\source\repos\c#\intAndInt32\bin\Debug\netcoreapp2.1\intAndInt32.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\intAndInt32\bin\Debug\netcoreapp2.1\intAndInt32.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\intAndInt32\bin\Debug\netcoreapp2.1\intAndInt32.dll
+C:\Users\benc1\source\repos\c#\intAndInt32\bin\Debug\netcoreapp2.1\intAndInt32.pdb
+C:\Users\benc1\source\repos\c#\intAndInt32\obj\Debug\netcoreapp2.1\intAndInt32.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\intAndInt32\obj\Debug\netcoreapp2.1\intAndInt32.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\intAndInt32\obj\Debug\netcoreapp2.1\intAndInt32.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\intAndInt32\obj\Debug\netcoreapp2.1\intAndInt32.dll
+C:\Users\benc1\source\repos\c#\intAndInt32\obj\Debug\netcoreapp2.1\intAndInt32.pdb

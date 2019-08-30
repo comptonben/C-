@@ -1,0 +1,10 @@
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\bin\Debug\netcoreapp2.1\defaultConstructorAccessModifier.deps.json
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\bin\Debug\netcoreapp2.1\defaultConstructorAccessModifier.runtimeconfig.json
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\bin\Debug\netcoreapp2.1\defaultConstructorAccessModifier.runtimeconfig.dev.json
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\bin\Debug\netcoreapp2.1\defaultConstructorAccessModifier.dll
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\bin\Debug\netcoreapp2.1\defaultConstructorAccessModifier.pdb
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\obj\Debug\netcoreapp2.1\defaultConstructorAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\obj\Debug\netcoreapp2.1\defaultConstructorAccessModifier.AssemblyInfoInputs.cache
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\obj\Debug\netcoreapp2.1\defaultConstructorAccessModifier.AssemblyInfo.cs
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\obj\Debug\netcoreapp2.1\defaultConstructorAccessModifier.dll
+C:\Users\benc1\source\repos\c#\defaultConstructorAccessModifier\obj\Debug\netcoreapp2.1\defaultConstructorAccessModifier.pdb
